@@ -4,6 +4,10 @@
   @apply text-gray-600 dark:text-gray-300;
   overflow-wrap: break-word;
 }
+.notion-text {
+  font-size: 18px;
+}
+
 .notion,
 .notion-text,
 .notion-quote,
