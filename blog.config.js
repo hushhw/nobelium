@@ -36,7 +36,7 @@ const BLOG = {
     }
   },
   comment: {
-    // support provider: gitalk, utterances, cusdis
+    // support provider: gitalk, utterances, cusdis, valine
     provider: 'cusdis', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
       repo: '', // The repository of store comments
